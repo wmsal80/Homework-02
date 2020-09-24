@@ -1,0 +1,4 @@
+I used bootstrap to mimic as close as possible the examples we were given. I used the .nav option (simplicity) and adpated the verbage to match what I wanted.
+I used the portfolio page to show the places I've been instead of family pictures because I feel the places are more interesting. for that I used the float code for my pictures. Unfortunately I was not able to figure out the code to make them adaptive.
+I used textual form controls for my contact page and linked the three pages together. I made sure the three choices on the navbar darkened or lightened as each page was clicked.
+I kept "Hello, world!" on my pages because this is my first successful (kind of) web page and although incredibly rudimentary, it's still mine. Knowing they will only get better as I progress also makes happy as I get to display my increasing knowledge through my web design.
